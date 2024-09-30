@@ -25,12 +25,15 @@ L'interacteur est accueilli dans une pièce sombre, où un projecteur éclaire u
 
 L'œuvre s'inspire de la relation entre la créativité et les aspects techniques du son. Je souhaitais montrer que derrière la beauté des sons et de la musique, créés par notre imagination, se cache une dimension mathématique.
 
+## Références artistiques
+- [Cycles par Martin Messier](https://martinmessier.art/cycles.html) - L'intégration des cordes dans l'œuvre
 
-### Référence visuelles
+
+### Références visuelles
 
 - [Exemple cordes](https://www.youtube.com/watch?v=ttgLyWFINJI)
 
-## Moodboard Sonore
+## Références sonores
 
 - [Ambiance sonore 1](https://www.youtube.com/watch?v=3zPv7oMaR_g)
 - [Ambiance sonore 2](https://www.youtube.com/watch?v=EAIEqDT63tg)
