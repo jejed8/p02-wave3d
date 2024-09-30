@@ -21,6 +21,11 @@ L'interacteur est accueilli dans une pièce sombre, où un projecteur éclaire u
 ![moodboard-visuel](https://github.com/user-attachments/assets/9c7f23a4-d2c9-49ba-8af1-2f2a9340f3fb)
 
 
+## Motivation créatives
+
+L'œuvre s'inspire de la relation entre la créativité et les aspects techniques du son. Je souhaitais montrer que derrière la beauté des sons et de la musique, créés par notre imagination, se cache une dimension mathématique.
+
+
 ### Référence visuelles
 
 - [Exemple cordes](https://www.youtube.com/watch?v=ttgLyWFINJI)
